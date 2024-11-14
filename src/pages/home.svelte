@@ -48,7 +48,7 @@
       I Build Web Experiences for Modern Brands
     </h2>
     
-    <Typewriter Class="text-center font-medium text-xl mt-10 mb-10 leading-relaxed"
+    <Typewriter Class="text-center font-medium text-xl mt-7 mb-7 leading-relaxed"
       text="I’m a seasoned web designer and developer focused on creating effective, tailored web solutions using modern technologies and frameworks."
       
     />
